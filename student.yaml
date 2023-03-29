@@ -1,0 +1,27 @@
+name:
+  firstname: Peter
+  surname: White
+age:
+  type: number
+  minimum: 16
+  value: 19
+sex: male
+addresses:
+  postalAddress:
+    country: UA
+    city: Dnipro
+    postalCode: 49108
+  emailAddress: peterwhite@gmail.com 
+phoneNumbers:
+  - type: Mobile
+    number: +38095564645
+  - type: Home
+    number: 6565787878
+married: false
+taxId: 876765654535467700000
+faculty: Biotechnology
+studyOfYear: 2
+subjects: [math, physics, biology, chemistry, computer science, genetics, English]
+scholarship:
+  amount: 156.8
+  currency: €

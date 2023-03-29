@@ -1,0 +1,50 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student>
+ <name>
+  <firstname>Peter</firstname>
+  <surname>White</surname>
+ </name>
+       
+ <age>
+  <type>number</type>
+  <minimum>16</minimum>
+  <value>19</value>
+ </age>
+ 
+ <sex>male</sex>
+ <addresses> 
+     <postalAddress>
+       <country>UA</country>
+       <city>Dnipro</city>
+       <postalCode>49108</postalCode>
+     </postalAddress>
+     <emailAddress>peterwhite@gmail.com</emailAddress>
+ </addresses>
+ <phoneNumbers>
+  <phoneNumber>
+   <type>Mobile</type>
+   <number>+38095564645</number>
+  </phoneNumber>
+  <phoneNumber>
+   <type>Home</type>
+   <number>6565787878</number>
+  </phoneNumber>
+ </phoneNumbers>
+ <married>false</married>
+ <taxId>876765654535467687908</taxId>
+ <faculty>Biotechnology</faculty>
+ <studyOfYear>2</studyOfYear>
+ <subjects>
+    <subject>math</subject>
+    <subject>physics</subject>
+    <subject>biology</subject>
+    <subject>computer science</subject>
+    <subject>genetics</subject>
+    <subject>English</subject>
+ </subjects>
+ <scholarship currency="€">
+     <amount>156.8</amount>
+ </scholarship>
+</student>
